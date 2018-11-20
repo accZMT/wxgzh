@@ -1,7 +1,7 @@
 # wxgzh
 个人微信公众号开发
 
-* [微信公众好开发文档](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
+* [微信公众号开发文档](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
 * [wechatpy中文文档](https://wechatpy.readthedocs.io/zh_CN/master/)
 * [腾讯AI开放平台文档](https://ai.qq.com/doc/nlptrans.shtml)
 
