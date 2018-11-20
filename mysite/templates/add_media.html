@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加素材管理</title>
+</head>
+<body>
+<form action="{% url 'wx:add_material' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <lable>文件类型</lable>
+    <input type="text" name="media_type">
+    <br>
+    <lable>文件</lable>
+    <input type="file" name="media_file">
+    <br>
+    <lable>文件标题</lable>
+    <input type="text" name="title">
+    <br>
+    <lable>文件介绍</lable>
+    <input type="text" name="introduction">
+    <br>
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>
