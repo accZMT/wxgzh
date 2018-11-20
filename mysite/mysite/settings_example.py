@@ -10,12 +10,12 @@
 ALLOWED_HOSTS = ["*"]
 
 # 以下为微信公共号中的测试号信息
-APP_ID = 'wx76342d45a73b2237'
-APP_SECRET = '5d7402129992ff3710be8f772198a068'
+APP_ID = ''
+APP_SECRET = ''
 
 # 腾讯AI开放平台个人密钥
-app_id = '2109258854'
-app_key = 'LSFaIB44cBW7dOKB'
+app_id = ''
+app_key = ''
 # Application definition
 
 INSTALLED_APPS = [
