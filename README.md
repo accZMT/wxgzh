@@ -10,8 +10,8 @@
 
 ### 可以关注微信公众号ACCZMT体验
 
-![ACCZMT](http://pdhrh6d6j.bkt.clouddn.com/images/wx/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+![ACCZMT](https://github.com/accZMT/accZMT.github.io/blob/master/img/images/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 ### 功能截图
 
-![截图](http://pdhrh6d6j.bkt.clouddn.com/images/wx/wxjietu.jpg)
+![截图](https://github.com/accZMT/accZMT.github.io/blob/master/img/images/wxjietu.jpg)
